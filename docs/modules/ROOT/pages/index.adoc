@@ -1,0 +1,3 @@
+= appcat
+
+appcat is a Commodore configuration package to manage appcat.
